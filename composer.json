@@ -1,0 +1,22 @@
+{
+    "name": "mass6/laravel-approvals",
+    "description": "Approval workflows for Laravel 5+",
+    "keywords":    ["approvals", "workflow", "laravel", "eloquent", "statemachine", "state", "transition"],
+    "homepage":    "https://github.com/mass6/Laravel-Approvals",
+    "type":        "library",
+    "license":     "MIT",
+    "require": {
+        "yohang/finite": "^1.1",
+        "venturecraft/revisionable": "^1.28",        
+        "illuminate/support": "^5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Sam",
+            "email": "samcharmy@gmail.com"
+        }
+    ]
+}
